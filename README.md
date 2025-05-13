@@ -105,5 +105,5 @@ This project is open-source and free to use for educational purposes.
 
 ## ✉️ Author
 
-Developed by **Shreyas10**.
+Developed by **Adarsh001**.
 Feel free to contribute or suggest improvements!
